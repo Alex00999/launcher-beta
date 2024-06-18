@@ -1,0 +1,3 @@
+PyQt5~=5.15.10
+minecraft_launcher_lib
+random_username
